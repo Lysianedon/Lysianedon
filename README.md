@@ -12,7 +12,7 @@ Une mordue de code, disais-je :
 
 ⏳ En cours : Javascript, React, ExpressJS, NodeJS, Python, méthode agile 
 
-💻 Portfolio : https://www.linkedin.com/in/lysianedon/
+💻 Portfolio : https://lysianedon.github.io/portfoliolysiane/
 
 🔜 Prochain projet : le vôtre. Développons-le ensemble. 
 

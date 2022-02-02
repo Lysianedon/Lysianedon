@@ -12,8 +12,6 @@ Une mordue de code, disais-je :
 
 ⏳ En cours : Javascript, React, ExpressJS, NodeJS, Python, méthode agile 
 
-💻 Portfolio : https://lysianedon.github.io/portfoliolysiane/
-
 🔜 Prochain projet : le vôtre. Développons-le ensemble. 
 
-✉️ Pour me contacter : don.lysiane@gmail.com
+✉️ Pour me contacter : don.lysiane@gmail.com Tel : 06 13 18 17 69

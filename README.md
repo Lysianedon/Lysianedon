@@ -1,6 +1,4 @@
-👋 Hello! Moi c'est Lysiane, une mordue de code, actuellement en quête d'une alternance en développement web Full Stack Javascript, riche en challenges et en projets 
-innovants. Une personne on ne peut plus motivée, au carrefour d'une reconversion professionnelle qui décollera au sein d'une entreprise aussi engagée, passionnée 
-et ambitieuse qu'elle.
+👋 Hello! Moi c'est Lysiane, une mordue de code, actuellement en quête de projets de développement web Full Stack Javascript, innovants et riches en challenges. Une personne on ne peut plus motivée, au carrefour d'une reconversion professionnelle qui décollera au sein d'une entreprise aussi engagée, passionnée et ambitieuse qu'elle.
 
 🌱 Ce qui me passionne : la médecine douce, la nourriture afro vegane, les arts numériques, le code (of course 🤓).
 

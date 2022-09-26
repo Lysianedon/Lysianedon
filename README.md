@@ -6,9 +6,9 @@
 
 Une mordue de code, disais-je :
 
-✅ Acquis : HTML5, CSS3, bases de l'algorithmique en Python, Figma, Github.
+✅ Acquis : Javascript, Vue JS, React, NodeJS, ExpressJS, HTML5, CSS3, méthode agile, bases de l'algorithmique en Python, Figma, Github.
 
-⏳ En cours : Javascript, React, ExpressJS, NodeJS, Python, méthode agile 
+⏳ En cours : Python
 
 🔜 Prochain projet : le vôtre. Développons-le ensemble. 
 

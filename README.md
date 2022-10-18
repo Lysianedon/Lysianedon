@@ -10,7 +10,7 @@
 
 Une mordue de code, disais-je :
 
-✅ Acquis : Javascript, Vue JS, React, NodeJS, ExpressJS, HTML5, CSS3, méthode agile, bases de l'algorithmique en Python, Figma, Github.
+✅ Acquis : Javascript, Vue JS, React, NodeJS, ExpressJS, MongoDB, PostreSQL, HTML5, CSS3, méthode agile, bases de l'algorithmique en Python, Figma, Git, Github, Gitlab.
 
 ⏳ En cours : Python
 

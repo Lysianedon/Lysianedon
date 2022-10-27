@@ -12,7 +12,7 @@ Une mordue de code, disais-je :
 
 ✅ Acquis : Javascript, Vue JS, React, NodeJS, ExpressJS, MongoDB, PostreSQL, HTML5, CSS3, méthode agile, bases de l'algorithmique en Python, Figma, Git, Github, Gitlab.
 
-⏳ En cours : Python, Docker
+⏳ En cours : Python, Typescript, Docker
 
 🔜 Prochain projet : le vôtre. Développons-le ensemble. 
 

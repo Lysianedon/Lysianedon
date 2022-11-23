@@ -4,7 +4,7 @@
 
 💼 Occupe actuellement le poste de : développeuse web Front chez Multi. Fin de contrat en novembre 2022. 
 
-🌱 Ce qui me passionne : la médecine douce, la nourriture afro vegane, les arts numériques, le code (of course 🤓).
+🌱 Ce qui me passionne : le roller, la médecine douce, les arts numériques, le code (of course 🤓).
 
 🙋🏾‍♀️🙋🏼‍♂️💁🏼 : Je suis ouverte aux collaborations sur des projets à impact positifs, quelque soit le sujet. Je suis ouverte et curieuse, so tell me. :)
 

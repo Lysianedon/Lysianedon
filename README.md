@@ -2,7 +2,7 @@
 
 👩🏾‍💻 Side project actuel  : Sema, le coin littérature des afrocurieux => https://github.com/Lysianedon/librairie-sema 
 
-💼 Occupe actuellement le poste de : développeuse web Front chez Multi. Fin de contrat en novembre 2022. 
+💼 Occupe actuellement le poste de : développeuse web Fullstack chez Alvarum SAS. 
 
 🌱 Ce qui me passionne : le roller, la médecine douce, les arts numériques, le code (of course 🤓).
 
@@ -12,8 +12,8 @@ Une mordue de code, disais-je :
 
 ✅ Acquis : Javascript, Vue JS, React, NodeJS, ExpressJS, MongoDB, PostreSQL, HTML5, CSS3, méthode agile, bases de l'algorithmique en Python, Figma, Git, Github, Gitlab.
 
-⏳ En cours : Python, Typescript, Docker
+⏳ En cours : Vuetify 2, Docker
 
 🔜 Prochain projet : le vôtre. Développons-le ensemble. 
 
-✉️ Pour me contacter : don.lysiane@gmail.com Tel : 06 13 18 17 69
+✉️ Pour me contacter : don.lysiane@gmail.com

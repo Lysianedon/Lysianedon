@@ -12,9 +12,9 @@
 
 Une mordue de code, disais-je :
 
-✅ Acquis : Javascript, Vue JS, Vuetify 2 et 3, React, NodeJS, ExpressJS, MongoDB, PostreSQL, méthode agile, bases de l'algorithmique en Python, Figma, Git, Github, Gitlab.
+✅ Acquis : Javascript, Vue JS, Vuetify 2 et 3, React, NodeJS, ExpressJS, MongoDB, MariaDB, Docker, Git, Github, Gitlab et j'en passe...
 
-⏳ En cours : Docker
+⏳ En cours : GSAP
 
 🔜 Prochain projet : le vôtre. Développons-le ensemble. 
 

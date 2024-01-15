@@ -16,7 +16,7 @@ Une mordue de code, disais-je :
 
 ✅ Acquis : Javascript, Vue JS, Vuetify 2 et 3, React, NodeJS, ExpressJS, MongoDB, MariaDB, Docker, Git, Github, Gitlab et j'en passe...
 
-⏳ En cours : GSAP
+⏳ En cours : Python, GSAP
 
 🔜 Prochain projet : le vôtre. Développons-le ensemble. 
 

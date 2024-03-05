@@ -3,8 +3,9 @@
 🔗 Mon portfolio : https://lysianewebstudio-frontend.onrender.com/ 
 
 👩🏾‍💻 Side projects actuels : 
-  - n° 1: Untitled - Site de vente de faire-parts de mariage digitaux. (Si tu as des idées de nom de projet, n'hésite pas!)
-  - n° 2: Kazi - la plateforme de recherche d'emplois spécialisée dans les opportunités en Afrique. Roadmap ici : https://aged-pincushion-0ff.notion.site/Kazi-8e8b251d95c6463d924373fee34feffe
+  
+  - n° 1: Kazi - la plateforme de recherche d'emplois spécialisée dans les opportunités en Afrique. Roadmap ici : https://aged-pincushion-0ff.notion.site/Kazi-8e8b251d95c6463d924373fee34feffe
+  - n° 2: Joli Papier - Boutique de vente de faire-parts de mariage digitaux. (Boutique e-commerce en cours de développement)
 
 🌱 Ce qui me passionne : le roller, la médecine douce, la culture afro urbaine, le code (of course 🤓).
 

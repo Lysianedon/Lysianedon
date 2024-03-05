@@ -4,9 +4,7 @@
 
 👩🏾‍💻 Side projects actuels : 
   - n° 1: Untitled - Site de vente de faire-parts de mariage digitaux. (Si tu as des idées de nom de projet, n'hésite pas!)
-  - n° 2: Sema - le coin littérature des afrocurieux => https://github.com/Lysianedon/librairie-sema (refonte de la codebase en cours...)
-
-💼 Occupe actuellement le poste de : développeuse web Fullstack chez Alvarum SAS (depuis janvier 2023).
+  - n° 2: Kazi - la plateforme de recherche d'emplois spécialisée dans les opportunités en Afrique. Roadmap ici : https://aged-pincushion-0ff.notion.site/Kazi-8e8b251d95c6463d924373fee34feffe
 
 🌱 Ce qui me passionne : le roller, la médecine douce, la culture afro urbaine, le code (of course 🤓).
 
@@ -14,7 +12,7 @@
 
 Une mordue de code, disais-je :
 
-✅ Acquis : Javascript, Vue JS, Vuetify 2 et 3, React, NodeJS, ExpressJS, MongoDB, MariaDB, Docker, Git, Github, Gitlab et j'en passe...
+✅ Acquis : Javascript, Typescript, Vue JS, Vuetify, React, NodeJS, ExpressJS, MongoDB, MariaDB, Docker, Git, Github, Gitlab et j'en passe...
 
 ⏳ En cours : Python, GSAP
 
